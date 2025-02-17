@@ -49,14 +49,6 @@ This project performs various analyses on a dataset using Python. It includes te
 
 The analysis results are saved in `dataset_analysis_report.md`, providing a detailed markdown report of the dataset analysis.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
 ## Contact
 
-For any questions or issues, please contact [Your Name](mailto:your.email@example.com). 
+For any questions or issues, please contact [Waqas](mailto:waqaskhan137@gmail.com). 
