@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+openpyxl
+tabulate
+nltk
+spacy
+tiktoken
+textstat
+sentence-transformers
+langchain
+langchain_groq
+python-dotenv
+langchain_community
